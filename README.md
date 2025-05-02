@@ -1,11 +1,12 @@
 # 🌟 Sanskriti Sourya — Personal Portfolio Website
 
 Welcome to my personal portfolio repository! This website is a digital reflection of my journey as a software developer and AI enthusiast. Designed with clean UI, rich content, and modern web standards, this portfolio aims to highlight my work, skills, and experience in a visually engaging way.
+![Screenshot 2025-05-02 224956](https://github.com/user-attachments/assets/e757fe29-c390-44dc-9a26-095a31007113)
 
 ---
 
 ## 🚀 Live Preview
-🌐 [View Website](#) *(replace with deployed URL)*
+🌐 [View Website](#) 
 
 ---
 
@@ -13,6 +14,7 @@ Welcome to my personal portfolio repository! This website is a digital reflectio
 Built using **React.js** and **Tailwind CSS**, this responsive website is optimized for performance and accessibility. The site integrates smart layout components and showcases AI-powered projects, hands-on development experiences, and technical achievements.
 
 ---
+![Screenshot 2025-05-02 224925](https://github.com/user-attachments/assets/66ea2c83-9fcb-4fb9-97f5-deccd7e585db)
 
 ## 📂 Features
 - 🔹 Smooth scroll, dark mode toggle, and responsive layout
